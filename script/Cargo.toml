@@ -7,7 +7,7 @@ edition = "2021"
 [dependencies]
 image = "0.25.1"
 serde_json = "1.0.117"
-sp1-sdk = { git = "https://github.com/succinctlabs/sp1.git", rev = "v1.0.0-testnet" }
+sp1-sdk = { git = "https://github.com/succinctlabs/sp1.git", rev = "0f2a1e1389747ac0dbee1c4d40243eed20baba86" }
 
 [build-dependencies]
 sp1-helper = { git = "https://github.com/succinctlabs/sp1.git", rev = "v1.0.0-testnet"  }
